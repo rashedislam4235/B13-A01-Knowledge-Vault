@@ -7,6 +7,9 @@
    
 
 }
+body{
+    font-family: "Inter", sans-serif;
+}
 *{
     margin: 0;
     padding: 0;
@@ -54,7 +57,7 @@
     padding-bottom: 180px;
     
 
-  font-family: "Inter", sans-serif;
+  
 }
   
 
@@ -158,4 +161,28 @@
     background: none;
     color: white;
     
+}
+.s3{
+    padding-top: 44px;
+}
+.structur{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin: 0 auto;
+   
+    max-width: 1360px;
+    margin-bottom: 44px;
+
+}
+.structur h1{
+    font-size: 48px;
+    font-weight: bold;
+    color: #001931;
+    margin-bottom: 16px;
+}
+.structur p{
+    font-size: 16px;
+    color: #627382;
 }
