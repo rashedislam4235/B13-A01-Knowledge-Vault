@@ -217,3 +217,55 @@ body{
     border-radius: 50%;
     padding: 14px;
 }
+.s5{
+    padding: 120px;
+}
+.s5-fulldiv{
+    display: flex;
+    gap: 60px;
+    
+}
+.fulldiv2{
+    margin-top: 102px;
+    margin-bottom: 102px;
+    
+}
+.fulldiv2 h6{
+    color: #469165;
+    font-size: 16px;
+    margin-bottom: 16px;
+}
+.fulldiv2 h1{
+    font-size: 48px;
+    font-weight: bold;
+    margin-bottom: 16px;
+}
+.fulldiv2 p{
+    font-size: 16px;
+    color: #627382;
+    margin-bottom: 40px;
+    line-height: 20px;
+}
+.fulldiv2  li{
+    list-style: none;
+    margin-bottom: 16px;
+}
+.li1{
+    display: inline-flex;
+}
+.li2{
+    display: inline-flex;
+}
+.li3{
+    display: inline-flex;
+}
+.li4{
+    display: inline-flex;
+}
+.fulldiv1{
+    max-width: 600px;
+
+}
+.fulldiv2 ul img{
+    max-width: 20px;
+}
