@@ -329,6 +329,52 @@ body{
     line-height: 24px;
     margin-bottom: 24px;
 }
+.footer{
+    background-color: #001931;
+    padding:120px 120px 30px 120px;
+    margin-top: 120px;
+}
+.footer-nav{
+    max-width: 1360px;
+    margin: 0 auto;
+    
+    display: flex;
+    justify-content: space-between;
+    
+}
+.footerdiv1 img{
+    max-width: 139px;
+}
+.social-link{
+    margin-right: 107px;
+}
+.social-link h1 {
+    font-size:20px;
+    color: #FFFFFF;
+    margin-bottom:16px;
+
+}
+.sli i{
+    max-width: 20px;
+   background-color: rgba(255, 255, 255, 0.862);
+    border-radius: 50%;
+    padding: 4px;
+    margin-right: 16px;
+
+}
+
+.line{
+    border:1px solid #62738266 ;
+    margin-top: 80px;
+    margin-bottom: 40px;
+}
+.copyright{
+    max-width: 1360px;
+    margin: 0 auto;
+    text-align: center;
+    font-size: 16px;
+    color: #fafafa;
+}
 
 
 
