@@ -280,5 +280,56 @@ body{
     margin-bottom: 44px;
 
 }
+.btn4{
+     border: none;
+    border-radius: 5px;
+    background-color: #469165;
+    padding: 16px;
+    display: inline-flex;
+    align-items: center;
+    gap: 10px;
+    color: white;
+    font-size: 16px;
+    font-weight: 600;
+    margin-bottom: 16px;
+}
+.btn4 img{
+    max-width: 20px;
+}
+.s6fulldiv{
+    text-align: center;
+        background-color: #6273820c;
+        max-width: 1360px;
+        margin: 0 auto;
+        padding: 80px 40px;
+        border-radius: 10px;
+   
+}
+.s6fulldiv ul{
+    display: flex;
+    gap: 24px;
+    margin-left: 450px;
+    font-size: 16px;
+    color: #627382;
+    
+}
+.spli1{
+    list-style: none;
+
+}
+.s6h1{
+    font-size: 40px;
+    font-weight: bold;
+    color: #001931;
+    margin-bottom: 16px;
+}
+.s6p1{
+    font-size: 16px;
+    color: #627382;
+    line-height: 24px;
+    margin-bottom: 24px;
+}
+
+
 
 
